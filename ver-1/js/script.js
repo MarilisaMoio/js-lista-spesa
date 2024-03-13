@@ -1,0 +1,1 @@
+//versione 1: dato l'array della spesa, stampare singolarmente gli elementi nel DOM con il FOR 
